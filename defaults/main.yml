@@ -1,0 +1,11 @@
+---
+postgresql:
+  version: 9.5
+  user: postgres
+  group: postgres
+  setting:
+    listen: localhost
+    port: 5432
+    max_connections: 100
+    shared_buffers: 128MB
+    work_mem: 4MB
