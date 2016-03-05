@@ -1,4 +1,4 @@
-# ansible role Postgresql
+# Ansible role Postgresql
 
 Ansible role for Postgresql with pgdg repository
 
